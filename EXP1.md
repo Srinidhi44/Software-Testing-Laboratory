@@ -108,7 +108,11 @@ iterate()
 
 
 ### Output:
-
+![1](https://github.com/user-attachments/assets/d36709f3-f3f3-48f8-9e11-d65ade8f4f6c)
+![2](https://github.com/user-attachments/assets/69e5b8a2-800f-40e5-9d6c-0786da687e31)
+![3](https://github.com/user-attachments/assets/da60dae5-9272-4726-bf9f-6ead3a9d9afe)
+![4](https://github.com/user-attachments/assets/d2aafe75-f498-4acb-b9a3-939d4c776d61)
+![5](https://github.com/user-attachments/assets/08c2e992-2c72-49d3-b713-8859c20ec2bf)
 
 
 
